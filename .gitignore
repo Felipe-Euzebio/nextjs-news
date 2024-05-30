@@ -39,3 +39,7 @@ next-env.d.ts
 /backend/node_modules
 /backend/*.db
 /*.db
+
+# test files
+/middleware.js
+/app/api
